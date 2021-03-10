@@ -30,7 +30,7 @@ The county name was extracted using the script shown in Image 1.
 
 - **The county that had the largest number of votes**
 
-Denver had the largest number of votes with an 82.8% and 306,055 total votes
+Denver had the largest number of votes with an 82.8% and 306,055 total votes.
 
 - **Breakdown of the number of votes and the percentage of the total votes each candidate received**
 
