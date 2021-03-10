@@ -14,7 +14,7 @@ To create a Python script with election results.
 
 There was a total of 369,711 votes cast. 
 
-- Breakdown of the number of votes and the percentage of total votes for each county in the precinct
+- **Breakdown of the number of votes and the percentage of total votes for each county in the precinct**
 
 County | Percent of votes | Total votes
 ------------ | -------------| -------------
